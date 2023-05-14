@@ -1,18 +1,15 @@
 ![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
-<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h1 align="center">Hi there👋, I'm Ankita</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imankitadas&label=Profile%20views&color=0e75b6&style=flat" alt="imankitadas" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"><br><br>
 
 - 🌱 I’m currently learning **Tailwind CSS,Javascript**
-
+        
 - 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **ankitaab07@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankitaab07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitaab07" height="30" width="40" /></a>
@@ -26,4 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imankitadas&show_icons=true&locale=en&layout=compact" alt="imankitadas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imankitadas&show_icons=true&locale=en" alt="imankitadas" /></p>
+<p>&nbsp;<br><br><br><br><br><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=imankitadas&show_icons=true&locale=en" alt="imankitadas" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imankitadas&label=Profile%20views&color=0e75b6&style=flat" alt="imankitadas" /> </p>
+
