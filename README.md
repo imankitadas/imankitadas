@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Ankita</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 
-- 🌱 I’m currently learning **Tailwind CSS,Javascript**
+- 🌱 I’m currently learning **NodeJs**
         
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,Javascript,React**
 
 - 📫 How to reach me **ankitaab07@gmail.com**
  
